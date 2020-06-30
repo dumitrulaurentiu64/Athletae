@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75645673696",
+    "firebase_url": "https://athletae-9162e.firebaseio.com",
+    "project_id": "athletae-9162e",
+    "storage_bucket": "athletae-9162e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75645673696:android:76e3cdc83f8beccb56b085",
+        "android_client_info": {
+          "package_name": "com.example.athletae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75645673696-a9nua95ls4i31605s0lukg5l39lqbdvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.athletae",
+            "certificate_hash": "52733c798d6118a00a2239fe2edfbdbdc05f4f26"
+          }
+        },
+        {
+          "client_id": "75645673696-j1tcoc5i98abk3uultse8a2molcdmn1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1kjZlH7RQzbq1i2_w_NVwAx6Rthph7Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75645673696-j1tcoc5i98abk3uultse8a2molcdmn1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
